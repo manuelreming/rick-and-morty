@@ -1,0 +1,36 @@
+.divCard{
+    background-color: white;
+}
+.h2Name{
+    color: white;
+    background-color: #737272;
+    top: 24rem;
+    margin-left: 0.5rem;
+    margin-bottom: 2rem;
+}
+.h2Gender{
+    
+    top: 26.5rem;
+    margin-left: 7.5rem;
+}
+.h2Species{
+    
+}
+.img{
+    margin-bottom: 2rem;
+    padding-left: 0;
+    
+}
+.buttonClose{
+    cursor: pointer;
+    margin-left: 16rem;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    width: 2.5rem;
+    height: 1.5rem;
+}
+.buttonClose:hover {
+    background-color: blue;
+
+}
